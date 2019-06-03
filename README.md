@@ -1,1 +1,1 @@
-park-submit --jars postgresql-42.2.5.jar job.py Spark-Postgres
+park-submit --jars postgresql-42.2.5.jar job.py
